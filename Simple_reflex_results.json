@@ -1,0 +1,18 @@
+{
+    "Living Room": {
+        "current_temperature": 25,
+        "action": "Turn off heater"
+    },
+    "Bedroom": {
+        "current_temperature": 20,
+        "action": "Turn on heater"
+    },
+    "Kitchen": {
+        "current_temperature": 21,
+        "action": "Turn on heater"
+    },
+    "Bathroom": {
+        "current_temperature": 25,
+        "action": "Turn off heater"
+    }
+}
